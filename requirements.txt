@@ -1,0 +1,5 @@
+#Adafruit_DHT
+paho-mqtt
+#sqlite3
+matplotlib
+#random
